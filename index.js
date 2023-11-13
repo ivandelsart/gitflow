@@ -8,3 +8,7 @@ function saybye (){
     console.log('bye')
 };
 
+function pruebaaa(){
+    return 'hola'
+}
+
